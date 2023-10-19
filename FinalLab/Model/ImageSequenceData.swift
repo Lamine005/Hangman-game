@@ -2,7 +2,7 @@
 
 import Foundation
 
-let imageNameSequence = [
+ let imageNameSequence = [
     "0_echafaud",
     "1_tete",
     "2_corps",

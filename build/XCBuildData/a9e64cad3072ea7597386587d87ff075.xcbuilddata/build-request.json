@@ -9,7 +9,7 @@
       "guid" : "e04f167fb4b03e42e9c175bfbe73be573d1892b98de29ff5181cccc45b9fa43b"
     }
   ],
-  "containerPath" : "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab.xcodeproj",
+  "containerPath" : "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab.xcodeproj",
   "continueBuildingAfterErrors" : true,
   "enableIndexBuildArena" : false,
   "hideShellScriptEnvironment" : false,
@@ -31,9 +31,9 @@
       "buildIntermediatesPath" : "",
       "buildProductsPath" : "",
       "derivedDataPath" : "/Users/laminedjobo/Library/Developer/Xcode/DerivedData",
-      "indexDataStoreFolderPath" : "/Users/laminedjobo/Library/Developer/Xcode/DerivedData/FinalLab-elqxgzoggsmtvmhbowuqhzswypew/Index.noindex/DataStore",
+      "indexDataStoreFolderPath" : "/Users/laminedjobo/Library/Developer/Xcode/DerivedData/FinalLab-frqaykdxcvoakhcoreakferjrwfa/Index.noindex/DataStore",
       "indexEnableDataStore" : true,
-      "indexPCHPath" : "/Users/laminedjobo/Library/Developer/Xcode/DerivedData/FinalLab-elqxgzoggsmtvmhbowuqhzswypew/Index.noindex/PrecompiledHeaders",
+      "indexPCHPath" : "/Users/laminedjobo/Library/Developer/Xcode/DerivedData/FinalLab-frqaykdxcvoakhcoreakferjrwfa/Index.noindex/PrecompiledHeaders",
       "pchPath" : ""
     },
     "configurationName" : "Debug",

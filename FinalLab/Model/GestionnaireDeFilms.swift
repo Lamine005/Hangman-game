@@ -5,7 +5,7 @@
 //  Created by Lamine Djobo on 2023-08-11.
 //
 
-import Foundation
+ import Foundation
 
 class MovieDownloader {
     static let shared = MovieDownloader()

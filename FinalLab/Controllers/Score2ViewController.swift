@@ -5,7 +5,7 @@
 //  Created by Lamine Djobo on 2023-08-26.
 //
 
-import UIKit
+ import UIKit
 import CoreData
 
 class Score2ViewController: UIViewController {

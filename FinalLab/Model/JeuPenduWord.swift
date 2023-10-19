@@ -3,7 +3,7 @@
 import Foundation
 import UIKit
 
-struct EndOfGameInformation1 {
+ struct EndOfGameInformation1 {
     let win: Bool
     let title: String
     let entErrors: Int

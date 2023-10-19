@@ -3,7 +3,7 @@
 import Foundation
 import UIKit
 
-struct Film: Codable {
+ struct Film: Codable {
     let Title: String!
     let Released: String!
     let Genre: String!

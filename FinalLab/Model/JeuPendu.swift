@@ -1,7 +1,7 @@
 
 
 import Foundation
-import UIKit
+ import UIKit
 
 
 struct EndOfGameInformation {

@@ -14,7 +14,7 @@ class ScoreViewController: UIViewController {
         showscore.text = "\(String(describing: nameSaved!)) ton score pour le mode Film est \(storedScore) "
         
         showScoreGameWord.text = " \(String(describing: nameSaved!)) ton score pour le monde Dictionnaire est \(storedScore2) "
-    }
+    } 
     
     @IBOutlet weak var showscore: UILabel!
     
