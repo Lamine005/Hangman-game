@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+FinalLab in FinalLab, no dependencies
+FinalLabTests in FinalLab, depends on:
+FinalLab in FinalLab (explicit)
+FinalLabUITests in FinalLab, depends on:
+FinalLab in FinalLab (explicit)

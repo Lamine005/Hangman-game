@@ -1,0 +1,15 @@
+"/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Controllers/PreferencesViewController.swift":
+  object: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/PreferencesViewController.o"
+  dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/PreferencesViewController.d"
+  diagnostics: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/PreferencesViewController.dia"
+  swift-dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/PreferencesViewController.swiftdeps"
+"/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Controllers/MenuViewController.swift":
+  object: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/MenuViewController.o"
+  dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/MenuViewController.d"
+  diagnostics: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/MenuViewController.dia"
+  swift-dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/MenuViewController.swiftdeps"
+"/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Model/GestionnaireDeFilms.swift":
+  dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/GestionnaireDeFilms.d"
+  diagnostics: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/GestionnaireDeFilms.dia"
+  swift-dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/GestionnaireDeFilms.swiftdeps"
+  object: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/GestionnaireDeFilms.o"

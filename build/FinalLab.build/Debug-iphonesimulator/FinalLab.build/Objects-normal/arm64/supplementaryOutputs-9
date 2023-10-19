@@ -1,0 +1,15 @@
+"/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Ressources/AppDelegate.swift":
+  swift-dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  object: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/AppDelegate.o"
+  dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/AppDelegate.d"
+  diagnostics: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/AppDelegate.dia"
+"/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Controllers/ViewController.swift":
+  diagnostics: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/ViewController.dia"
+  dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/ViewController.d"
+  object: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/ViewController.o"
+  swift-dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/ViewController.swiftdeps"
+"/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Controllers/Score2ViewController.swift":
+  object: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/Score2ViewController.o"
+  dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/Score2ViewController.d"
+  swift-dependencies: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/Score2ViewController.swiftdeps"
+  diagnostics: "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/Score2ViewController.dia"

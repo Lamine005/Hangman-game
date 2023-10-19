@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "c74234ca57e54d642b2073ecc7de6918dbff58431acd356597dea2b562a699b3"
+build_start_time: [1694749216, 601805000]
+build_end_time: [1694749216, 685898000]
+inputs:
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Controllers/MenuViewController.swift": !private [1694748168, 3933022]
+  ? "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Controllers/PreferencesViewController.swift"
+  : !private [1694748168, 36371263]
+  ? "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Controllers/Score2ViewController.swift"
+  : !private [1694748168, 28765941]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Controllers/ScoreViewController.swift": !private [1694748167, 952125895]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Controllers/ViewController.swift": !private [1694749190, 732680377]
+  ? "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Controllers/WordGameViewController.swift"
+  : !private [1694748168, 17811375]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/FilmSchema.swift": !private [1694652437, 684430269]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/GestionnaireDeFilms.swift": !private [1694652437, 730297055]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/ImageSequenceData.swift": !private [1694652437, 706392736]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/JeuPendu.swift": !private [1694736707, 471074112]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/JeuPenduWord.swift": !private [1694735216, 973924082]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/ListesDeFilms.swift": !private [1694652437, 740974362]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Model/CoreDataStack.swift": !private [1694654263, 9689862]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Ressources/AppDelegate.swift": !private [1694650314, 686074452]
+  "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/FinalLab/Ressources/SceneDelegate.swift": !private [1694650314, 688325010]
+  ? "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/DerivedSources/CoreDataGenerated/FinalLab/FinalLab+CoreDataModel.swift"
+  : !private [1694749216, 437423021]
+  ? "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/DerivedSources/CoreDataGenerated/FinalLab/Score+CoreDataClass.swift"
+  : !private [1694749216, 442535243]
+  ? "/Users/laminedjobo/Desktop/Lamine IOS/Laboratoire3/Laboratoire3/Lab ios2/FinalLab/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/DerivedSources/CoreDataGenerated/FinalLab/Score+CoreDataProperties.swift"
+  : !private [1694749216, 443800934]

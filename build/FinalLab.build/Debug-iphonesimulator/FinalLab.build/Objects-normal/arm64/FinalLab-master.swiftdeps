@@ -1,0 +1,26 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "98f061c8db04b92f1604ec3778aa5311104b59fcc6d63f9597b94f3b1bcbf556"
+build_start_time: [1697697973, 634850000]
+build_end_time: [1697697974, 267755000]
+inputs:
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Controllers/MenuViewController.swift": [1694748168, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Controllers/PreferencesViewController.swift": [1694748168, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Controllers/Score2ViewController.swift": [1694748168, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Controllers/ScoreViewController.swift": [1694748167, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Controllers/ViewController.swift": [1694749190, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Controllers/WordGameViewController.swift": [1694748168, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Model/FilmSchema.swift": [1694652437, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Model/GestionnaireDeFilms.swift": [1694652437, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Model/ImageSequenceData.swift": [1694652437, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Model/JeuPendu.swift": [1694736707, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Model/JeuPenduWord.swift": [1694735216, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Model/ListesDeFilms.swift": [1694652437, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/ModelData/CoreDataStack.swift": [1694654263, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Ressources/AppDelegate.swift": [1694650314, 0]
+  "/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Ressources/SceneDelegate.swift": [1694650314, 0]
+  ? "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/DerivedSources/CoreDataGenerated/FinalLab/FinalLab+CoreDataModel.swift"
+  : [1697697973, 484885055]
+  ? "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/DerivedSources/CoreDataGenerated/FinalLab/Score+CoreDataClass.swift"
+  : [1697697973, 486114172]
+  ? "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/DerivedSources/CoreDataGenerated/FinalLab/Score+CoreDataProperties.swift"
+  : [1697697973, 486781293]

@@ -1,0 +1,15 @@
+"/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Controllers/ViewController.swift":
+  diagnostics: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/ViewController.dia"
+  object: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/ViewController.o"
+  swift-dependencies: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/ViewController.swiftdeps"
+  dependencies: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/ViewController.d"
+"/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Controllers/Score2ViewController.swift":
+  swift-dependencies: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/Score2ViewController.swiftdeps"
+  object: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/Score2ViewController.o"
+  dependencies: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/Score2ViewController.d"
+  diagnostics: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/Score2ViewController.dia"
+"/Users/laminedjobo/Downloads/FinalLabMVC/FinalLab/Ressources/AppDelegate.swift":
+  diagnostics: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/AppDelegate.dia"
+  dependencies: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/AppDelegate.d"
+  swift-dependencies: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  object: "/Users/laminedjobo/Downloads/FinalLabMVC/build/FinalLab.build/Debug-iphonesimulator/FinalLab.build/Objects-normal/arm64/AppDelegate.o"
